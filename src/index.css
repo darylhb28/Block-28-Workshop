@@ -39,3 +39,19 @@ body > div {
 .home {
   background-color: burlywood;
 }
+
+.violet {
+  background-color: violet;
+  color: white;
+}
+
+.rainbow{
+  background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet);
+  color: white;
+}
+
+#footer{
+  padding: 2em;
+  justify-content: space-evenly;
+  background-color: white;
+}
